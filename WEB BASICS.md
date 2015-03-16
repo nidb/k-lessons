@@ -41,8 +41,8 @@
 
 Chrome developer tools  shortcut(ctrl - shift - i)  - Network tab
 
-Chrome Poster
+1. Chrome Poster
 [https://chrome.google.com/webstore/detail/chrome-poster/cdjfedloinmbppobahmonnjigpmlajcd?hl=en](https://chrome.google.com/webstore/detail/chrome-poster/cdjfedloinmbppobahmonnjigpmlajcd?hl=en)
 
-Fiddler
+2. Fiddler
 [http://www.telerik.com/fiddler](http://www.telerik.com/fiddler)
