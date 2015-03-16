@@ -31,6 +31,11 @@
 **Load Balancing**
 [http://en.wikipedia.org/wiki/Load_balancing_%28computing%29](http://en.wikipedia.org/wiki/Load_balancing_%28computing%29)
 
+**Web Services**
+[http://en.wikipedia.org/wiki/Web_service](http://en.wikipedia.org/wiki/Web_service)
+
+**Restful Services**
+[http://en.wikipedia.org/wiki/Representational_state_transfer](http://en.wikipedia.org/wiki/Representational_state_transfer)
 **Tools**
 
 Chrome developer tools  shortcut(ctrl - shift - i)  - Network tab
