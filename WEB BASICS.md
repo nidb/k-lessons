@@ -46,3 +46,9 @@ Chrome developer tools  shortcut(ctrl - shift - i)  - Network tab
 
 2. Fiddler
 [http://www.telerik.com/fiddler](http://www.telerik.com/fiddler)
+
+**Java Servlets**
+Java Programming 24 Hour Trainer
+- Chapter 27
+- http://www.wrox.com/WileyCDA/Section/id-611875.html
+- 
